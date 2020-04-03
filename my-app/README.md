@@ -1,3 +1,6 @@
+# First-React-App
+signup,login and profile feature using React Hooks and Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
